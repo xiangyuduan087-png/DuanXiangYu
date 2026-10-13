@@ -1,0 +1,2 @@
+# Keep every public asset byte-exact, including script text downloads.
+public/** -text
