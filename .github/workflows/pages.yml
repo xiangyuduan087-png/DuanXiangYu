@@ -13,7 +13,6 @@ jobs:
     runs-on: ubuntu-latest
     env:
       PAGES_EXPORT: 'true'
-      NEXT_PUBLIC_MEDIA_BASE_URL: ${{ vars.MEDIA_BASE_URL }}
     steps:
       - uses: actions/checkout@v4
         with:
@@ -26,6 +25,7 @@ jobs:
           node-version: 22
           cache: pnpm
       - run: pnpm install --frozen-lockfile
+      - run: pnpm exec next typegen
       - run: pnpm typecheck
       - run: pnpm build
       - run: node scripts/prepare-export.cjs

@@ -1,5 +1,6 @@
 const fs=require('fs'),path=require('path');const root=path.resolve(__dirname,'..'),refs=new Set();
-function add(value){if(typeof value==='string'&&value.startsWith('/')&&!value.startsWith('//')){const url=value.split(/[?#]/)[0];if(fs.existsSync(path.join(root,'public',url)))refs.add(url)}}
+const aliasFile=path.join(root,'content/asset-aliases.json'),aliases=fs.existsSync(aliasFile)?JSON.parse(fs.readFileSync(aliasFile,'utf8')):{};
+function add(value){if(typeof value==='string'&&value.startsWith('/')&&!value.startsWith('//')){let url=value.split(/[?#]/)[0];url=aliases[url]||url;if(fs.existsSync(path.join(root,'public',url)))refs.add(url)}}
 function walk(value){if(typeof value==='string')add(value);else if(Array.isArray(value))value.forEach(walk);else if(value&&typeof value==='object')Object.values(value).forEach(walk)}
 const data=JSON.parse(fs.readFileSync(path.join(root,'content/imported-projects.json'),'utf8')),display=JSON.parse(fs.readFileSync(path.join(root,'content/design-display.json'),'utf8'));
 for(const p of data.filter(p=>!display.excluded.includes(p.id))){add(p.cover?.src);if(p.direction==='design'){for(const i of p.detail.images){add(i.src);add(i.original||i.src);}}else{for(const e of p.episodes||[]){add(e.src);add(e.poster);}if(!p.episodes?.length)add(p.video);for(const g of p.processGroups||[]){for(const i of g.images){add(i.thumbnail||i.src);add(i.original||i.src);}for(const d of g.documents)add(d.src);}}}

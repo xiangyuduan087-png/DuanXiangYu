@@ -2,7 +2,7 @@ const fs=require('node:fs'),path=require('node:path');
 require('./audit-publish.cjs');
 const root=path.resolve(__dirname,'..'),out=path.join(root,'out');
 const report=JSON.parse(fs.readFileSync(path.join(root,'verification/publish-resources.json'),'utf8'));
-const external=!!process.env.NEXT_PUBLIC_MEDIA_BASE_URL;
+const external=false;
 const required=JSON.parse(fs.readFileSync(path.join(root,'content/publication-assets.json'),'utf8'));
 for(const item of required){if(external&&/^\/projects\/[^/]+\/videos\/.*\.mp4$/.test(item.url))continue;const file=path.join(root,'public',item.url);if(!fs.existsSync(file)||fs.statSync(file).size!==item.bytes)throw Error('发布资源未完整准备：'+item.url);}
 const keep=new Set(report.files.filter(f=>!(external&&/^\/projects\/[^/]+\/videos\/.*\.mp4$/.test(f.url))).map(f=>f.url));
