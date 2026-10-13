@@ -1,0 +1,13 @@
+node_modules/
+.next/
+*.tsbuildinfo
+.tools/
+verification/
+out/
+deployment-cache/
+.env
+.env.*
+*.log
+imports/
+# Local media is preserved; tracked publication assets are added explicitly.
+public/

@@ -1,0 +1,1 @@
+export const categoryCovers:Record<string,string>={海报:'/categories/poster.svg',Banner:'/categories/banner.svg',IP:'/categories/ip.svg',字体:'/categories/type.svg',图标:'/categories/icons.svg',TVC种草:'/categories/tvc.svg',剧集:'/categories/series.svg',娱乐向:'/categories/entertainment.svg',影游:'/categories/interactive.svg',短片:'/categories/film.svg'};
