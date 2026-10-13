@@ -1,0 +1,212 @@
+《When a CEO Falls for a Pumpkin》分镜脚本（漫剧海外2 · 第2集）
+═══════════════════════════════════════════════
+竖屏 9:16 ｜ 5 场景 / 8 角色 / 147 镜 ｜ 总时长 03:37.57
+说明：本集为漫剧海外1（第1集）同一部续集，角色/场景/道具沿用第1集资产，仅新增本集新登场对象（角色007/008、场景005、道具005/006）。
+
+【段落划分】
+■ 第一幕　仇人相见（镜 001-025，约 00:00.00-00:29.80）｜场景002 建筑工地
+　动作：Cathy 怒掴 Vincent（Mr. Wallace），保镖喝止；承包商 Samuel 自报"本项目工地负责人 Samuel"，Cathy 认出仇人索还父亲的心脏与钱；Vincent 旧疾发作被搀走，临走下令"悬赏十亿美元寻找身上有花纹胎记的女人"。
+　参考资产：场景002_建筑工地 ｜ 角色001_Cathy ｜ 角色002_Vincent ｜ 角色005_Samuel
+
+■ 第二幕　讨薪受辱（镜 026-097，约 00:29.80-02:17.00）｜场景002 建筑工地
+　动作：Samuel 奉命"妥善处理"却当众羞辱 Cathy；Cathy 索要父亲手术费二十万美元，Samuel 反唇相讥"他说的处理就是处理你"；工友欲相挺，Samuel 威胁扣光工资、"敢闹就宰了你"；Cathy 拒收工友凑的钱，立誓自筹救父。
+　参考资产：场景002_建筑工地 ｜ 角色001_Cathy ｜ 角色005_Samuel ｜ 角色004_Benny ｜ 道具002_铁锅炒饭
+
+■ 第三幕　霸总寻人（镜 098-108，约 02:17.00-02:40.50）｜场景003 豪车内部 / 场景005 豪宅客厅
+　动作：Vincent 命手下查"刚才那女孩"的资料，被调侃"单身三十年该找人了"；手下回禀"已找到二十位有花纹胎记的名门千金，可逐一试之"。
+　参考资产：场景003_豪车内部 ｜ 角色002_Vincent ｜ 角色006_格纹西装男 ｜ 道具001_黑色豪车
+
+■ 第四幕　豪门催婚·母亲登门（镜 109-135，约 02:40.50-03:19.00）｜场景005 豪宅客厅
+　动作：Vincent 电话拒回老宅并挂断；母亲 Mrs. Wallace 怒斥"这臭小子敢挂我电话"，与女仆商议其病情，决意"既然他不回家，就把人送到公司去堵他"。
+　参考资产：场景005_豪宅客厅 ｜ 角色002_Vincent ｜ 角色007_MrsWallace ｜ 角色008_女仆
+
+■ 第五幕　复仇钩子（镜 136-147，约 03:19.00-03:37.57）｜场景002 建筑工地
+　动作：Cathy 决意反击："请顶尖律师，替我父亲讨回公道！"——为下一集"灰姑娘反击豪门"埋下钩子。
+　参考资产：场景002_建筑工地 ｜ 角色001_Cathy ｜ 道具003_讨债纸牌
+
+═══════════════════════════════════════════════
+【镜头总览表（147 镜 · 时间码对齐转写台词）】
+| 镜号 | 时间码 | 时长 | 台词/内容 |
+| 001 | 00:00.10-00:00.83 |  0.7s | How dare you hit Mr. Wallace! |
+| 002 | 00:00.83-00:01.67 |  0.8s | How dare you hit Mr. Wallace! |
+| 003 | 00:01.67-00:03.07 |  1.4s | How dare you hit Mr. Wallace! Bitch, do you want to di |
+| 004 | 00:03.07-00:03.20 |  0.1s | Bitch, do you want to die? |
+| 005 | 00:03.20-00:03.67 |  0.5s | Bitch, do you want to die? |
+| 006 | 00:03.67-00:05.13 |  1.5s | Bitch, do you want to die? Mr. Wallace, I'm the site m |
+| 007 | 00:05.13-00:06.60 |  1.5s | Mr. Wallace, I'm the site manager of this project, Sam |
+| 008 | 00:06.60-00:07.67 |  1.1s | Mr. Wallace, I'm the site manager of this project, Sam |
+| 009 | 00:07.67-00:09.13 |  1.5s | Mr. Wallace, I'm the site manager of this project, Sam |
+| 010 | 00:09.13-00:10.10 |  1.0s | Oh well, so you're Samuel, return my dad's heart and m |
+| 011 | 00:10.10-00:13.33 |  3.2s | Oh well, so you're Samuel, return my dad's heart and m |
+| 012 | 00:13.33-00:14.10 |  0.8s | What's going on here? |
+| 013 | 00:14.10-00:14.83 |  0.7s | What's going on here? Oh no, Vincent's having another  |
+| 014 | 00:14.83-00:16.83 |  2.0s | Oh no, Vincent's having another episode. |
+| 015 | 00:16.83-00:17.47 |  0.6s | Oh no, Vincent's having another episode. |
+| 016 | 00:17.47-00:18.00 |  0.5s | Oh no, Vincent's having another episode. Come on, let' |
+| 017 | 00:18.00-00:20.20 |  2.2s | Come on, let's go! Issue a billion dollars reward to f |
+| 018 | 00:20.20-00:21.40 |  1.2s | Issue a billion dollars reward to find the woman with  |
+| 019 | 00:21.40-00:22.90 |  1.5s | Issue a billion dollars reward to find the woman with  |
+| 020 | 00:22.90-00:22.93 |  0.0s |  |
+| 021 | 00:22.93-00:25.13 |  2.2s |  |
+| 022 | 00:25.13-00:25.70 |  0.6s |  |
+| 023 | 00:25.70-00:27.27 |  1.6s | Handle this properly. Yes, yes. Mr. Wallace, I'll take |
+| 024 | 00:27.27-00:29.53 |  2.3s | Yes, yes. Mr. Wallace, I'll take care of it. |
+| 025 | 00:29.53-00:31.20 |  1.7s | Yes, yes. Mr. Wallace, I'll take care of it. Samuel, y |
+| 026 | 00:31.20-00:32.60 |  1.4s | Samuel, your boss told me you'd handle this, so pay up |
+| 027 | 00:32.60-00:34.43 |  1.8s | Samuel, your boss told me you'd handle this, so pay up |
+| 028 | 00:34.43-00:37.33 |  2.9s | Samuel, your boss told me you'd handle this, so pay up |
+| 029 | 00:37.33-00:37.43 |  0.1s | Samuel, your boss told me you'd handle this, so pay up |
+| 030 | 00:37.43-00:37.67 |  0.2s | Samuel, your boss told me you'd handle this, so pay up |
+| 031 | 00:37.67-00:38.20 |  0.5s | Samuel, your boss told me you'd handle this, so pay up |
+| 032 | 00:38.20-00:38.57 |  0.4s | Samuel, your boss told me you'd handle this, so pay up |
+| 033 | 00:38.57-00:38.77 |  0.2s | Samuel, your boss told me you'd handle this, so pay up |
+| 034 | 00:38.77-00:41.37 |  2.6s | Samuel, your boss told me you'd handle this, so pay up |
+| 035 | 00:41.37-00:42.63 |  1.3s | Samuel, your boss told me you'd handle this, so pay up |
+| 036 | 00:42.63-00:44.40 |  1.8s | Samuel, your boss told me you'd handle this, so pay up |
+| 037 | 00:44.40-00:48.23 |  3.8s | My dad's waiting for surgery! Since Mr. Wallace told m |
+| 038 | 00:48.23-00:50.03 |  1.8s | Since Mr. Wallace told me to handle it, of course I wi |
+| 039 | 00:50.03-00:51.63 |  1.6s |  |
+| 040 | 00:51.63-00:51.80 |  0.2s |  |
+| 041 | 00:51.80-00:52.00 |  0.2s |  |
+| 042 | 00:52.00-00:54.40 |  2.4s | What he meant was dealing with you! |
+| 043 | 00:54.40-00:56.00 |  1.6s | What he meant was dealing with you! |
+| 044 | 00:56.00-00:56.20 |  0.2s |  |
+| 045 | 00:56.20-00:57.53 |  1.3s |  |
+| 046 | 00:57.53-00:58.00 |  0.5s |  |
+| 047 | 00:58.00-00:58.63 |  0.6s |  |
+| 048 | 00:58.63-00:59.53 |  0.9s |  |
+| 049 | 00:59.53-00:59.57 |  0.0s |  |
+| 050 | 00:59.57-00:59.63 |  0.1s |  |
+| 051 | 00:59.63-01:00.60 |  1.0s | Samuel, this is for you! |
+| 052 | 01:00.60-01:01.33 |  0.7s | Samuel, this is for you! |
+| 053 | 01:01.33-01:02.37 |  1.0s | Samuel, this is for you! |
+| 054 | 01:02.37-01:02.40 |  0.0s | Samuel, this is for you! |
+| 055 | 01:02.40-01:03.27 |  0.9s | Samuel, this is for you! |
+| 056 | 01:03.27-01:03.63 |  0.4s | Samuel, this is for you! |
+| 057 | 01:03.63-01:03.70 |  0.1s | Samuel, this is for you! |
+| 058 | 01:03.70-01:03.80 |  0.1s | Samuel, this is for you! |
+| 059 | 01:03.80-01:04.00 |  0.2s | Samuel, this is for you! |
+| 060 | 01:04.00-01:07.43 |  3.4s | Samuel, this is for you! Guys, come here! They're bull |
+| 061 | 01:07.43-01:07.83 |  0.4s | What are you doing? Planning a rebellion? |
+| 062 | 01:07.83-01:10.43 |  2.6s | What are you doing? Planning a rebellion? |
+| 063 | 01:10.43-01:11.00 |  0.6s |  |
+| 064 | 01:11.00-01:12.00 |  1.0s |  |
+| 065 | 01:12.00-01:13.37 |  1.4s |  |
+| 066 | 01:13.37-01:16.83 |  3.5s | Mark my words. If you dare to interfere, all of your s |
+| 067 | 01:16.83-01:21.17 |  4.3s | If you dare to interfere, all of your salary will be c |
+| 068 | 01:21.17-01:23.87 |  2.7s | If you dare to interfere, all of your salary will be c |
+| 069 | 01:23.87-01:27.00 |  3.1s | And you! If you keep causing trouble, I'll fucking kil |
+| 070 | 01:27.00-01:32.00 |  5.0s | Forget about selling food here! Kiss my ass! Ah! |
+| 071 | 01:32.00-01:34.00 |  2.0s |  |
+| 072 | 01:34.00-01:34.67 |  0.7s |  |
+| 073 | 01:34.67-01:35.20 |  0.5s |  |
+| 074 | 01:35.20-01:36.67 |  1.5s |  |
+| 075 | 01:36.67-01:38.57 |  1.9s | Kathy, I'm sorry. We're still counting on Samuel to pa |
+| 076 | 01:38.57-01:41.47 |  2.9s | Kathy, I'm sorry. We're still counting on Samuel to pa |
+| 077 | 01:41.47-01:43.00 |  1.5s | Kathy, I'm sorry. We're still counting on Samuel to pa |
+| 078 | 01:43.00-01:44.47 |  1.5s | So we can't help you anymore. |
+| 079 | 01:44.47-01:45.67 |  1.2s |  |
+| 080 | 01:45.67-01:46.13 |  0.5s |  |
+| 081 | 01:46.13-01:46.93 |  0.8s |  |
+| 082 | 01:46.93-01:47.67 |  0.7s | Here's a gift of us. Please take it. |
+| 083 | 01:47.67-01:50.10 |  2.4s | Here's a gift of us. Please take it. Take it? Just tak |
+| 084 | 01:50.10-01:53.40 |  3.3s | Take it? Just take it? Yeah, take it! |
+| 085 | 01:53.40-01:55.93 |  2.5s | Take it? Just take it? Yeah, take it! I can't take you |
+| 086 | 01:55.93-01:57.33 |  1.4s | I can't take your money. You've already helped me so m |
+| 087 | 01:57.33-02:00.10 |  2.8s | I can't take your money. You've already helped me so m |
+| 088 | 02:00.10-02:01.73 |  1.6s | I can't take your money. You've already helped me so m |
+| 089 | 02:01.73-02:03.77 |  2.0s | I can't take your money. You've already helped me so m |
+| 090 | 02:03.77-02:04.93 |  1.2s | I can't take your money. You've already helped me so m |
+| 091 | 02:04.93-02:06.00 |  1.1s | Kathy, don't come to the construction site anymore. We |
+| 092 | 02:06.00-02:07.50 |  1.5s | Kathy, don't come to the construction site anymore. We |
+| 093 | 02:07.50-02:08.60 |  1.1s | Kathy, don't come to the construction site anymore. We |
+| 094 | 02:08.60-02:10.30 |  1.7s | Kathy, don't come to the construction site anymore. We |
+| 095 | 02:10.30-02:14.57 |  4.3s | Kathy, don't come to the construction site anymore. We |
+| 096 | 02:14.57-02:16.37 |  1.8s | I need money to save my dad. I'll find a way to get it |
+| 097 | 02:16.37-02:18.07 |  1.7s |  |
+| 098 | 02:18.07-02:19.90 |  1.8s |  |
+| 099 | 02:19.90-02:25.60 |  5.7s | Give me the info of that girl just now. Wow, bro. I di |
+| 100 | 02:25.60-02:26.37 |  0.8s | Wow, bro. I didn't know you were into this. You've bee |
+| 101 | 02:26.37-02:27.50 |  1.1s | Wow, bro. I didn't know you were into this. You've bee |
+| 102 | 02:27.50-02:29.67 |  2.2s | Wow, bro. I didn't know you were into this. You've bee |
+| 103 | 02:29.67-02:32.47 |  2.8s |  |
+| 104 | 02:32.47-02:34.70 |  2.2s |  |
+| 105 | 02:34.70-02:36.73 |  2.0s |  |
+| 106 | 02:36.73-02:38.90 |  2.2s |  |
+| 107 | 02:38.90-02:39.83 |  0.9s |  |
+| 108 | 02:39.83-02:41.03 |  1.2s |  |
+| 109 | 02:41.03-02:42.67 |  1.6s | Vincent, I've found 20 herrises. Each with a floral bi |
+| 110 | 02:42.67-02:45.80 |  3.1s | Vincent, I've found 20 herrises. Each with a floral bi |
+| 111 | 02:45.80-02:46.53 |  0.7s | Vincent, I've found 20 herrises. Each with a floral bi |
+| 112 | 02:46.53-02:47.33 |  0.8s | Vincent, I've found 20 herrises. Each with a floral bi |
+| 113 | 02:47.33-02:48.23 |  0.9s | Vincent, I've found 20 herrises. Each with a floral bi |
+| 114 | 02:48.23-02:49.30 |  1.1s | Mom, I'm busy with work at the firm this week, so I wo |
+| 115 | 02:49.30-02:50.97 |  1.7s | Mom, I'm busy with work at the firm this week, so I wo |
+| 116 | 02:50.97-02:51.83 |  0.9s | Mom, I'm busy with work at the firm this week, so I wo |
+| 117 | 02:51.83-02:55.07 |  3.2s | Mom, I'm busy with work at the firm this week, so I wo |
+| 118 | 02:55.07-02:57.07 |  2.0s | You should take a cab home. What? |
+| 119 | 02:57.07-02:58.57 |  1.5s | What? Hey, bro! Bro! |
+| 120 | 02:58.57-02:59.97 |  1.4s | Hey, bro! Bro! Hello? Hello? Ah, my... This brat dares |
+| 121 | 02:59.97-03:00.00 |  0.0s | Hello? Hello? Ah, my... This brat dares to hang up on  |
+| 122 | 03:00.00-03:00.57 |  0.6s | Hello? Hello? Ah, my... This brat dares to hang up on  |
+| 123 | 03:00.57-03:02.70 |  2.1s | Hello? Hello? Ah, my... This brat dares to hang up on  |
+| 124 | 03:02.70-03:03.67 |  1.0s | Hello? Hello? Ah, my... This brat dares to hang up on  |
+| 125 | 03:03.67-03:06.13 |  2.5s | Hello? Hello? Ah, my... This brat dares to hang up on  |
+| 126 | 03:06.13-03:07.60 |  1.5s | What should we do? Is this condition going to be delay |
+| 127 | 03:07.60-03:11.00 |  3.4s | What should we do? Is this condition going to be delay |
+| 128 | 03:11.00-03:12.03 |  1.0s | Since he won't come home, let's send them to the firm  |
+| 129 | 03:12.03-03:13.43 |  1.4s | Since he won't come home, let's send them to the firm  |
+| 130 | 03:13.43-03:14.67 |  1.2s | Since he won't come home, let's send them to the firm  |
+| 131 | 03:14.67-03:15.80 |  1.1s | Go to the firm and corner him! |
+| 132 | 03:15.80-03:16.17 |  0.4s |  |
+| 133 | 03:16.17-03:16.67 |  0.5s |  |
+| 134 | 03:16.67-03:17.30 |  0.6s |  |
+| 135 | 03:17.30-03:20.77 |  3.5s |  |
+| 136 | 03:20.77-03:22.23 |  1.5s | A top lawyer? He's definitely going to seek justice fr |
+| 137 | 03:22.23-03:23.57 |  1.3s | A top lawyer? He's definitely going to seek justice fr |
+| 138 | 03:23.57-03:27.67 |  4.1s | A top lawyer? He's definitely going to seek justice fr |
+| 139 | 03:27.67-03:31.33 |  3.7s | A top lawyer? He's definitely going to seek justice fr |
+| 140 | 03:31.33-03:31.87 |  0.5s |  |
+| 141 | 03:31.87-03:32.07 |  0.2s |  |
+| 142 | 03:32.07-03:33.20 |  1.1s |  |
+| 143 | 03:33.20-03:33.30 |  0.1s |  |
+| 144 | 03:33.30-03:33.47 |  0.2s |  |
+| 145 | 03:33.47-03:37.23 |  3.8s |  |
+| 146 | 03:37.23-03:37.57 |  0.3s |  |
+| 147 | 03:37.57-03:37.57 |  0.0s |  |
+
+═══════════════════════════════════════════════
+【角色资产索引】
+| 角色001_CathyRowe_女主 | 02_角色/角色001_CathyRowe_女主.png |
+| 角色002_VincentWallace_CEO | 02_角色/角色002_VincentWallace_CEO.png |
+| 角色003_HenrikRowe_父亲 | 02_角色/角色003_HenrikRowe_父亲.png |
+| 角色004_BennySmith_工友 | 02_角色/角色004_BennySmith_工友.png |
+| 角色005_Samuel_工地负责人 | 02_角色/角色005_Samuel_工地负责人.png |
+| 角色006_格纹西装男 | 02_角色/角色006_格纹西装男.png |
+| 角色007_MrsWallace_母亲 | 02_角色/角色007_MrsWallace_母亲.png |
+| 角色008_女仆 | 02_角色/角色008_女仆.png |
+
+【场景资产索引】
+| 场景001_雪夜街道 | 03_场景/场景001_雪夜街道.png |
+| 场景002_建筑工地 | 03_场景/场景002_建筑工地.png |
+| 场景003_豪车内部 | 03_场景/场景003_豪车内部.png |
+| 场景004_新年烟花夜空 | 03_场景/场景004_新年烟花夜空.png |
+| 场景005_豪宅客厅 | 03_场景/场景005_豪宅客厅.png |
+
+【道具资产索引】
+| 道具001_黑色豪车 | 04_道具/道具001_黑色豪车.png |
+| 道具002_铁锅炒饭 | 04_道具/道具002_铁锅炒饭.png |
+| 道具003_讨债纸牌 | 04_道具/道具003_讨债纸牌.png |
+| 道具004_自行车 | 04_道具/道具004_自行车.png |
+| 道具005_炒饭推车 | 04_道具/道具005_炒饭推车.png |
+| 道具006_花斑胎记 | 04_道具/道具006_花斑胎记.png |
+
+【人物三视图】
+| 角色001_CathyRowe_三视图 | 05_三视图/角色001_CathyRowe_三视图.png |
+| 角色002_VincentWallace_三视图 | 05_三视图/角色002_VincentWallace_三视图.png |
+| 角色003_HenrikRowe_三视图 | 05_三视图/角色003_HenrikRowe_三视图.png |
+| 角色004_BennySmith_三视图 | 05_三视图/角色004_BennySmith_三视图.png |
+| 角色005_Samuel_三视图 | 05_三视图/角色005_Samuel_三视图.png |
+| 角色006_格纹西装男_三视图 | 05_三视图/角色006_格纹西装男_三视图.png |
+| 角色007_MrsWallace_三视图 | 05_三视图/角色007_MrsWallace_三视图.png |
+| 角色008_女仆_三视图 | 05_三视图/角色008_女仆_三视图.png |

@@ -1,0 +1,125 @@
+《When a CEO Falls for a Pumpkin》（霸道 CEO 爱上"南瓜"）
+—— 漫剧海外1 完整剧本（第 1 集 / 共 1 集，单集约 3:12）
+
+═══════════════════════════════════════════════
+【基本信息】
+类型：现代都市 · 豪门复仇 · 误认身份 · 霸总爱情（英文配音 2D 半写实动画短剧）
+规格：竖屏 1080×1920 ｜ 总时长 03:12 ｜ 镜头总数 153
+题材内核：女儿为被撞父亲讨公道，误把路过的豪车 CEO 当凶手拦车复仇，最终发现真凶是"同款车"的承包商，喜剧式认错人收尾。
+语言：英语（EN, 置信度 0.90）
+
+═══════════════════════════════════════════════
+【角色设定】
+
+角色001　Cathy Rowe（女主 · 复仇者）
+· 深棕黑色长发编成两条垂胸麻花辫、棕褐色大眼、面容清秀带英气
+· 红色毛领连帽大衣 + 厚实白色针织围巾（雪地标志性造型）
+· 性格：倔强、护父、一根筋；本集主线行动者
+· 三视图：05_三视图/角色001_CathyRowe_三视图.png
+· 资产：02_角色/角色001_CathyRowe_女主.png
+
+角色002　Vincent Wallace（男主 · 豪车 CEO）
+· 深棕短发侧分后梳、金丝细框眼镜、轮廓锐利俊朗、冷峻疏离
+· 黑色西装三件套 + 白衬衫 + 黑领带（车内常着米色大衣）
+· 性格：上位者、被误认后的从容反讽；本集"被拦车"的冤大头
+· 三视图：05_三视图/角色002_VincentWallace_三视图.png
+· 资产：02_角色/角色002_VincentWallace_CEO.png
+
+角色003　Henrik Rowe（Cathy 父亲 · 伤员）
+· 凌乱深棕短发 + 浓密络腮胡、面容沧桑疲惫
+· 军绿色毛领飞行员夹克 + 白衬衫
+· 戏份：开场雪地被撞重伤，全片多数时间昏迷/被照料
+· 三视图：05_三视图/角色003_HenrikRowe_三视图.png
+· 资产：02_角色/角色003_HenrikRowe_父亲.png
+
+角色004　Benny Smith（工地工友 · 线索人）
+· 黑短发略乱、眉目敦厚
+· 橙色反光条工装背心 + 蓝衬衫 + 深色工装裤 + 黑手套
+· 戏份：在工地告知 Cathy"撞你爸的车出现了"、帮忙炒饭
+· 三视图：05_三视图/角色004_BennySmith_三视图.png
+· 资产：02_角色/角色004_BennySmith_工友.png
+
+角色005　花衬衫墨镜壮汉（反派打手 / 疑似真凶同伙）
+· 金棕发后梳 + 络腮胡、眉宇凶悍；头顶架黑色墨镜
+· 白鹤纹样黑色花衬衫 + 灰毛领大衣
+· 戏份：后期威胁 Cathy（"Bitch, do you want to die?"），疑为承包商 Samuel Cooper 一方
+· 备注：台词点名真凶为"Harlem contractor Samuel Cooper"，本角色或为 Samuel 本人或其打手，画面对白未 100% 坐实身份，按功能性反派处理
+· 三视图：05_三视图/角色005_花衬衫壮汉_三视图.png
+· 资产：02_角色/角色005_黑帮壮汉_花衬衫.png
+
+角色006　格纹西装男（Vincent 的兄弟）
+· 黑短发侧分、眉目俊朗、神情玩味
+· 米色细格纹西装 + 白衬衫 + 灰白格纹围巾 + 棕西裤
+· 戏份：中段与 Vincent 同框，转述"算命六个月命"梗；结尾为 Vincent 出头（"Vincent, how dare you hit my brother?"）
+· 三视图：05_三视图/角色006_格纹西装男_三视图.png
+· 资产：02_角色/角色006_格纹西装男.png
+
+（群演：墨镜黑衣保镖若干，功能性，不单列资产）
+
+═══════════════════════════════════════════════
+【场景说明（4 处）】
+1. 场景001_雪夜街道：冬季夜晚城市街面，积雪反光、路灯暖光、远楼灯火、飘雪。开场父亲被撞 + 后期拦车主舞台。
+2. 场景002_建筑工地：黄色塔吊 + 绿脚手架未完工大楼、砖砂石料、集装箱围挡、积雪。Benny 线主场，Cathy 炒饭讨生活。
+3. 场景003_豪车内部：黑皮座椅 + 木纹饰板 + 宽侧窗（窗外雪景工地）。Vincent 车内戏。
+4. 场景004_新年烟花夜空：跨年夜深蓝夜空烟花 + 远山城市灯火。情绪过场 / 开场氛围。
+
+═══════════════════════════════════════════════
+【道具清单（4 件）】
+· 道具001_黑色豪车：Vincent 的豪车（宽镀铬格栅方灯），误认核心物。
+· 道具002_铁锅炒饭：Cathy 在雪地工地用便携炉炒饭讨生活（含蓝燃气罐）。
+· 道具003_讨债纸牌：手写"Pay me what you owe"硬纸板，Cathy 拦车举牌。
+· 道具004_自行车：Cathy 的通勤工具，雪地出行。
+
+═══════════════════════════════════════════════
+【剧情梗概（完整叙事）】
+
+第一幕 · 雪夜车祸（00:00–00:24）
+跨年夜烟花下，Cathy 抱着父亲 Henrik 在雪地狂奔："Dad! We're almost at the hospital!" 话音未落，一辆黑色豪车撞上 Henrik——车里传出惊呼："Mr. Wallace! It seems we've hit someone!" Henrik 倒地不起，Cathy 崩溃喊"Dad!"。
+
+第二幕 · 误认与纠缠（00:24–01:00）
+Cathy 认定那辆黑色豪车是凶手，死死拦住 Vincent 的车。她情绪崩溃地哀求又控诉："I'm begging you! Please!"、"You were the girl from eight months ago!"、"You're pregnant!"（此处为 Vincent 误认 Cathy 是八个月前那个怀孕女孩的错位台词，制造笑点）。Vincent 一头雾水。
+
+第三幕 · 真凶浮出（00:49–01:04）
+工友 Benny 在工地急告 Cathy："The car that hit your dad has shown up!" 指认真凶是"Harlem contractor Samuel Cooper"，并说"我爸大半是辛苦钱，今日必讨回"。Cathy 立誓复仇。
+
+第四幕 · 算命副线（01:04–01:20）
+Vincent 与格纹西装男（兄弟）同车。兄弟转述江湖算命："找有花纹胎记的女人睡一觉化解煞气，否则只剩六个月命。" Vincent 嗤之以鼻，但兄弟点破他"失眠噩梦还咳血、医生查不出"。这条线埋下 Vincent 的隐疾伏笔。
+
+第五幕 · 拦车复仇（01:23–02:23）
+Cathy 骑单车/举牌拦下 Vincent 的车："Why did you block my car?" 她误把 Vincent 当 Samuel 暴怒："You bastard! How dare you steal my dad?... I'll kill you!" 黑衣保镖群起压制，Cathy 怒吼"你们有钱有势就欺负普通人？我要为父报仇！"
+
+第六幕 · 认错人收尾（02:23–03:12）
+格纹西装男赶来喝止："Kathy, stop it! You've got the wrong person." Cathy 愣住："What?" 真相揭晓——"这不是撞我爸的车吗？""是同款车，但这个人不是 Sandy（真凶）。" Cathy 狼狈道歉："I'm sorry! I hit the wrong person!" 格纹西装男反呛 Vincent："Vincent, how dare you hit my brother like this?" 结尾 Vincent 一句"Remember to follow me." 收束，埋下"霸总收编灰姑娘"的下一集钩子。
+
+═══════════════════════════════════════════════
+【台词本（转写节选 · 英文原声）】
+00:00  Cathy: Dad! Hey there! We're almost at the hospital!
+00:10  (车内) Mr. Wallace! It seems we've hit someone! Who's pregnant?
+00:14  Cathy: Dad!
+00:28  Cathy: I'm begging you! Please!
+00:32  Vincent/Cathy: You were the girl from eight months ago!
+00:38  Vincent/Cathy: You're pregnant!
+00:49  Benny/Cathy: The car that hit your dad has shown up!
+00:52  Benny: Harlem contractor Samuel Cooper!
+00:58  Cathy: Today, I must get my dad's money back!
+01:04  (兄弟) Bro, why do you have time to visit the property we bought?
+01:09  (兄弟) Fortune teller said find a woman with a floral birthmark
+01:19  (兄弟) and sleep with her... Otherwise, you'll only have six months to live.
+01:23  Cathy: Why did you block my car?
+01:20  Cathy: You bastard! How dare you steal my dad?... I'll kill you!
+01:41  (兄弟) Kathy, stop it! You've got the wrong person.
+01:51  Cathy: Didn't you say this was the car that hit my dad?
+01:56  (兄弟) It's the same kind of car, but this guy isn't Sandy.
+01:61  Cathy: I'm sorry! I hit the wrong person!
+02:06  (兄弟) Vincent, how dare you hit my brother like this?
+02:23  (结尾) Vincent: Remember to follow me.
+
+（完整 153 镜台词对齐见《分镜脚本.txt》镜头总览表）
+
+═══════════════════════════════════════════════
+【资产对照】
+角色：角色001_Cathy ｜ 角色002_Vincent ｜ 角色003_Henrik ｜ 角色004_Benny ｜ 角色005_花衬衫壮汉 ｜ 角色006_格纹西装男
+场景：场景001_雪夜街道 ｜ 场景002_建筑工地 ｜ 场景003_豪车内部 ｜ 场景004_新年烟花夜空
+道具：道具001_黑色豪车 ｜ 道具002_铁锅炒饭 ｜ 道具003_讨债纸牌 ｜ 道具004_自行车
+三视图：05_三视图/（6 张，对应上述 6 角色）
+（共 24 张设定图：6 角色 + 4 场景 + 4 道具 + 6 三视图，详见 02_角色 / 03_场景 / 04_道具 / 05_三视图）

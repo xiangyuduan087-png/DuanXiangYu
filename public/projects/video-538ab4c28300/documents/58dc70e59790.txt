@@ -1,0 +1,219 @@
+《When a CEO Falls for a Pumpkin》分镜脚本（漫剧海外1 · 第1集）
+═══════════════════════════════════════════════
+竖屏 9:16 ｜ 4 场景 / 6 角色 / 153 镜 ｜ 总时长 03:12
+
+【段落划分】
+■ 第一幕　雪夜车祸（镜 001-013，约 00:00-00:24）｜场景001 雪夜街道
+　动作：跨年烟花下 Cathy 抱父狂奔赴医，黑色豪车撞倒 Henrik，车内惊呼"hit someone"，Cathy 崩溃。
+　参考资产：场景001_雪夜街道 ｜ 场景004_新年烟花夜空 ｜ 角色001_Cathy ｜ 角色003_Henrik ｜ 道具001_黑色豪车
+
+■ 第二幕　误认纠缠（镜 014-045，约 00:24-00:49）｜场景001 雪夜街道 / 场景003 豪车内部
+　动作：Cathy 拦 Vincent 豪车，哀求+控诉"eight months ago / You're pregnant"，Vincent 误认错位笑点。
+　参考资产：场景003_豪车内部 ｜ 角色001_Cathy ｜ 角色002_Vincent ｜ 道具001_黑色豪车 ｜ 道具003_讨债纸牌
+
+■ 第三幕　真凶浮出（镜 046-061，约 00:49-01:04）｜场景002 建筑工地
+　动作：工友 Benny 告知"撞你爸的车出现了"，指认 Harlem contractor Samuel Cooper，Cathy 立誓讨债。
+　参考资产：场景002_建筑工地 ｜ 角色001_Cathy ｜ 角色004_Benny ｜ 道具002_铁锅炒饭 ｜ 道具004_自行车
+
+■ 第四幕　算命副线（镜 062-082，约 01:04-01:23）｜场景003 豪车内部
+　动作：Vincent 与格纹西装兄弟同车，兄弟转述"花纹胎记女人睡一觉否则六个月命"梗，点破 Vincent 咳血隐疾。
+　参考资产：场景003_豪车内部 ｜ 角色002_Vincent ｜ 角色006_格纹西装男
+
+■ 第五幕　拦车复仇（镜 083-140，约 01:23-02:23）｜场景001 雪夜街道 / 场景003 豪车内部
+　动作：Cathy 举牌拦车误认 Vincent 为 Samuel，暴怒"steal my dad"，黑衣保镖压制，Cathy 喊"为父报仇"。
+　参考资产：场景001_雪夜街道 ｜ 场景003_豪车内部 ｜ 角色001_Cathy ｜ 角色002_Vincent ｜ 角色005_花衬衫壮汉 ｜ 道具003_讨债纸牌
+
+■ 第六幕　认错人收尾（镜 141-153，约 02:23-03:12）｜场景001 雪夜街道
+　动作：格纹西装男揭穿"You got the wrong person"，Cathy 认错车，兄弟反呛 Vincent，结尾"Remember to follow me"埋钩子。
+　参考资产：场景001_雪夜街道 ｜ 角色001_Cathy ｜ 角色002_Vincent ｜ 角色006_格纹西装男
+
+═══════════════════════════════════════════════
+【镜头总览表（153 镜 · 时间码对齐转写台词）】
+| 镜号 | 时间码 | 时长 | 台词/内容 |
+| 001 | 00:00.10-00:00.90 |  0.8s | Dad! Hey there! We're almost at the hospital! |
+| 002 | 00:00.90-00:01.40 |  0.5s | Dad! Hey there! We're almost at the hospital! |
+| 003 | 00:01.40-00:02.33 |  0.9s | Dad! Hey there! We're almost at the hospital! |
+| 004 | 00:02.33-00:03.67 |  1.3s | Dad! Hey there! We're almost at the hospital! |
+| 005 | 00:03.67-00:04.33 |  0.7s | Dad! Hey there! We're almost at the hospital! |
+| 006 | 00:04.33-00:05.20 |  0.9s |  |
+| 007 | 00:05.20-00:05.73 |  0.5s |  |
+| 008 | 00:05.73-00:05.83 |  0.1s |  |
+| 009 | 00:05.83-00:06.00 |  0.2s |  |
+| 010 | 00:06.00-00:06.20 |  0.2s |  |
+| 011 | 00:06.20-00:06.30 |  0.1s |  |
+| 012 | 00:06.30-00:06.90 |  0.6s |  |
+| 013 | 00:06.90-00:07.73 |  0.8s |  |
+| 014 | 00:07.73-00:10.73 |  3.0s | Mr. Wallace! It seems we've hit someone! Who's pregnant? |
+| 015 | 00:10.73-00:12.60 |  1.9s | Mr. Wallace! It seems we've hit someone! Who's pregnant? |
+| 016 | 00:12.60-00:13.77 |  1.2s | Mr. Wallace! It seems we've hit someone! Who's pregnant? |
+| 017 | 00:13.77-00:15.67 |  1.9s | Mr. Wallace! It seems we've hit someone! Who's pregnant? Dad |
+| 018 | 00:15.67-00:16.73 |  1.1s | Dad! |
+| 019 | 00:16.73-00:18.67 |  1.9s |  |
+| 020 | 00:18.67-00:21.47 |  2.8s |  |
+| 021 | 00:21.47-00:24.00 |  2.5s |  |
+| 022 | 00:24.00-00:30.97 |  7.0s | I'm begging you! Please! |
+| 023 | 00:30.97-00:33.33 |  2.4s | I'm begging you! Please! You were the girl from eight months |
+| 024 | 00:33.33-00:34.23 |  0.9s | You were the girl from eight months ago! |
+| 025 | 00:34.23-00:36.53 |  2.3s |  |
+| 026 | 00:36.53-00:37.13 |  0.6s |  |
+| 027 | 00:37.13-00:37.33 |  0.2s |  |
+| 028 | 00:37.33-00:38.23 |  0.9s | You're pregnant! |
+| 029 | 00:38.23-00:41.17 |  2.9s | You're pregnant! |
+| 030 | 00:41.17-00:42.17 |  1.0s |  |
+| 031 | 00:42.17-00:43.17 |  1.0s |  |
+| 032 | 00:43.17-00:44.17 |  1.0s |  |
+| 033 | 00:44.17-00:46.07 |  1.9s | Cathy! Cathy! |
+| 034 | 00:46.07-00:47.93 |  1.9s | Cathy! Cathy! |
+| 035 | 00:47.93-00:48.97 |  1.0s | Cathy! Cathy! |
+| 036 | 00:48.97-00:49.67 |  0.7s | Cathy! Cathy! The car that hit your dad has shown up! |
+| 037 | 00:49.67-00:50.67 |  1.0s | The car that hit your dad has shown up! |
+| 038 | 00:50.67-00:51.60 |  0.9s | The car that hit your dad has shown up! |
+| 039 | 00:51.60-00:52.77 |  1.2s | The car that hit your dad has shown up! Harlem contractor Sa |
+| 040 | 00:52.77-00:55.33 |  2.6s | Harlem contractor Samuel Cooper! Most of my dad is hard-earn |
+| 041 | 00:55.33-00:56.63 |  1.3s | Most of my dad is hard-earned money! Leave a heating on the  |
+| 042 | 00:56.63-00:56.73 |  0.1s | Leave a heating on the car! Leave him critical and injured! |
+| 043 | 00:56.73-00:57.30 |  0.6s | Leave a heating on the car! Leave him critical and injured! |
+| 044 | 00:57.30-00:58.20 |  0.9s | Leave a heating on the car! Leave him critical and injured!  |
+| 045 | 00:58.20-01:00.67 |  2.5s | Today, I must get my dad's money back! |
+| 046 | 01:00.67-01:02.20 |  1.5s | Today, I must get my dad's money back! Bro, things are criti |
+| 047 | 01:02.20-01:05.10 |  2.9s | Bro, things are critical now. Why do you have time to visit  |
+| 048 | 01:05.10-01:06.93 |  1.8s | Fortune teller said that you need to find a woman with a flo |
+| 049 | 01:06.93-01:10.67 |  3.7s | Fortune teller said that you need to find a woman with a flo |
+| 050 | 01:10.67-01:13.67 |  3.0s | and sleep with her to neutralize your excess energy. Otherwi |
+| 051 | 01:13.67-01:16.50 |  2.8s | That's just a bunch of nonsense. You actually believe that.  |
+| 052 | 01:16.50-01:18.63 |  2.1s | But bro, you always have insomnia and nightmares, and even c |
+| 053 | 01:18.63-01:20.20 |  1.6s | But bro, you always have insomnia and nightmares, and even c |
+| 054 | 01:20.20-01:21.97 |  1.8s | The doctors can't figure out what's wrong. |
+| 055 | 01:21.97-01:22.93 |  1.0s | The doctors can't figure out what's wrong. |
+| 056 | 01:22.93-01:23.60 |  0.7s | Samuel! We're talking dad's heart! I'm loving! |
+| 057 | 01:23.60-01:23.67 |  0.1s | Samuel! We're talking dad's heart! I'm loving! |
+| 058 | 01:23.67-01:24.07 |  0.4s | Samuel! We're talking dad's heart! I'm loving! |
+| 059 | 01:24.07-01:24.73 |  0.7s | Samuel! We're talking dad's heart! I'm loving! |
+| 060 | 01:24.73-01:25.83 |  1.1s | Samuel! We're talking dad's heart! I'm loving! |
+| 061 | 01:25.83-01:26.50 |  0.7s | Samuel! We're talking dad's heart! I'm loving! |
+| 062 | 01:26.50-01:27.10 |  0.6s |  |
+| 063 | 01:27.10-01:27.83 |  0.7s |  |
+| 064 | 01:27.83-01:28.43 |  0.6s |  |
+| 065 | 01:28.43-01:30.37 |  1.9s | Floral birthmark. |
+| 066 | 01:30.37-01:31.83 |  1.5s | Floral birthmark. |
+| 067 | 01:31.83-01:32.73 |  0.9s | Floral birthmark. |
+| 068 | 01:32.73-01:35.93 |  3.2s | Samuel. Who's Samuel? |
+| 069 | 01:35.93-01:36.67 |  0.7s | Samuel. Who's Samuel? |
+| 070 | 01:36.67-01:38.50 |  1.8s | I'll go check it out. |
+| 071 | 01:38.50-01:42.93 |  4.4s | I'll go check it out. |
+| 072 | 01:42.93-01:45.67 |  2.7s | Why did you block my car? |
+| 073 | 01:45.67-01:45.97 |  0.3s | Why did you block my car? |
+| 074 | 01:45.97-01:46.13 |  0.2s | Why did you block my car? |
+| 075 | 01:46.13-01:46.33 |  0.2s | Why did you block my car? |
+| 076 | 01:46.33-01:46.43 |  0.1s | Why did you block my car? |
+| 077 | 01:46.43-01:47.67 |  1.2s | Why did you block my car? |
+| 078 | 01:47.67-01:49.27 |  1.6s | Why did you block my car? |
+| 079 | 01:49.27-01:51.40 |  2.1s |  |
+| 080 | 01:51.40-01:52.10 |  0.7s |  |
+| 081 | 01:52.10-01:52.93 |  0.8s |  |
+| 082 | 01:52.93-01:56.57 |  3.6s |  |
+| 083 | 01:56.57-02:01.83 |  5.3s | You bastard! How dare you steal my dad? |
+| 084 | 02:01.83-02:02.07 |  0.2s | You bastard! How dare you steal my dad? |
+| 085 | 02:02.07-02:02.60 |  0.5s | You bastard! How dare you steal my dad? |
+| 086 | 02:02.60-02:02.73 |  0.1s | You bastard! How dare you steal my dad? |
+| 087 | 02:02.73-02:03.47 |  0.7s | You bastard! How dare you steal my dad? How earn money? How  |
+| 088 | 02:03.47-02:03.53 |  0.1s | How earn money? How dare you harm my dad? I'll kill you! |
+| 089 | 02:03.53-02:03.67 |  0.1s | How earn money? How dare you harm my dad? I'll kill you! |
+| 090 | 02:03.67-02:03.83 |  0.2s | How earn money? How dare you harm my dad? I'll kill you! |
+| 091 | 02:03.83-02:05.47 |  1.6s | How earn money? How dare you harm my dad? I'll kill you! |
+| 092 | 02:05.47-02:06.00 |  0.5s | How earn money? How dare you harm my dad? I'll kill you! |
+| 093 | 02:06.00-02:07.13 |  1.1s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 094 | 02:07.13-02:07.67 |  0.5s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 095 | 02:07.67-02:08.00 |  0.3s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 096 | 02:08.00-02:08.13 |  0.1s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 097 | 02:08.13-02:08.57 |  0.4s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 098 | 02:08.57-02:08.63 |  0.1s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 099 | 02:08.63-02:08.73 |  0.1s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 100 | 02:08.73-02:08.83 |  0.1s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 101 | 02:08.83-02:09.10 |  0.3s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 102 | 02:09.10-02:09.20 |  0.1s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 103 | 02:09.20-02:09.30 |  0.1s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 104 | 02:09.30-02:09.47 |  0.2s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 105 | 02:09.47-02:09.57 |  0.1s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 106 | 02:09.57-02:09.67 |  0.1s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 107 | 02:09.67-02:09.70 |  0.0s | Hey you! Hey you! Hey you! Hey you! Hey you! |
+| 108 | 02:09.70-02:10.20 |  0.5s | Hey you! Hey you! Hey you! Hey you! Hey you! You guys are so |
+| 109 | 02:10.20-02:10.73 |  0.5s | You guys are so bad! Just because you're rich and powerful, |
+| 110 | 02:10.73-02:12.77 |  2.0s | You guys are so bad! Just because you're rich and powerful, |
+| 111 | 02:12.77-02:15.00 |  2.2s | You guys are so bad! Just because you're rich and powerful,  |
+| 112 | 02:15.00-02:16.00 |  1.0s | you bully ordinary people is still their money, don't you? |
+| 113 | 02:16.00-02:17.30 |  1.3s | So I am going to avenge my dad! |
+| 114 | 02:17.30-02:18.40 |  1.1s | So I am going to avenge my dad! |
+| 115 | 02:18.40-02:19.10 |  0.7s |  |
+| 116 | 02:19.10-02:20.73 |  1.6s |  |
+| 117 | 02:20.73-02:21.67 |  0.9s | Kathy, stop it! You've got the wrong person. |
+| 118 | 02:21.67-02:21.73 |  0.1s | Kathy, stop it! You've got the wrong person. |
+| 119 | 02:21.73-02:23.10 |  1.4s | Kathy, stop it! You've got the wrong person. |
+| 120 | 02:23.10-02:25.00 |  1.9s | Kathy, stop it! You've got the wrong person. What? |
+| 121 | 02:25.00-02:28.00 |  3.0s | What? |
+| 122 | 02:28.00-02:28.57 |  0.6s |  |
+| 123 | 02:28.57-02:29.30 |  0.7s |  |
+| 124 | 02:29.30-02:29.37 |  0.1s |  |
+| 125 | 02:29.37-02:30.67 |  1.3s |  |
+| 126 | 02:30.67-02:33.17 |  2.5s | Oh no. Didn't you say this was the car that hit my dad? |
+| 127 | 02:33.17-02:34.37 |  1.2s | Oh no. Didn't you say this was the car that hit my dad? |
+| 128 | 02:34.37-02:36.87 |  2.5s | Oh no. Didn't you say this was the car that hit my dad? It's |
+| 129 | 02:36.87-02:38.93 |  2.1s | It's the same kind of car, but this guy isn't Sandy. |
+| 130 | 02:38.93-02:41.50 |  2.6s | It's the same kind of car, but this guy isn't Sandy. I'm sor |
+| 131 | 02:41.50-02:42.57 |  1.1s | I'm sorry, I'm sorry! I hit the wrong person! |
+| 132 | 02:42.57-02:43.67 |  1.1s | I'm sorry, I'm sorry! I hit the wrong person! |
+| 133 | 02:43.67-02:45.33 |  1.7s | I'm sorry, I'm sorry! I hit the wrong person! |
+| 134 | 02:45.33-02:45.67 |  0.3s | I'm sorry, I'm sorry! I hit the wrong person! |
+| 135 | 02:45.67-02:46.57 |  0.9s | I'm sorry, I'm sorry! I hit the wrong person! Vincent, how d |
+| 136 | 02:46.57-02:49.67 |  3.1s | Vincent, how dare you hit my brother like this? |
+| 137 | 02:49.67-02:50.97 |  1.3s | Vincent, how dare you hit my brother like this? |
+| 138 | 02:50.97-02:52.60 |  1.6s |  |
+| 139 | 02:52.60-02:59.47 |  6.9s |  |
+| 140 | 02:59.47-02:59.67 |  0.2s |  |
+| 141 | 02:59.67-03:00.57 |  0.9s |  |
+| 142 | 03:00.57-03:00.73 |  0.2s |  |
+| 143 | 03:00.73-03:05.33 |  4.6s | How dare you hit the one? Bitch, do you want to die? |
+| 144 | 03:05.33-03:06.63 |  1.3s | How dare you hit the one? Bitch, do you want to die? |
+| 145 | 03:06.63-03:06.67 |  0.0s |  |
+| 146 | 03:06.67-03:06.77 |  0.1s |  |
+| 147 | 03:06.77-03:06.93 |  0.2s |  |
+| 148 | 03:06.93-03:07.83 |  0.9s |  |
+| 149 | 03:07.83-03:07.90 |  0.1s |  |
+| 150 | 03:07.90-03:07.93 |  0.0s |  |
+| 151 | 03:07.93-03:08.03 |  0.1s |  |
+| 152 | 03:08.03-03:11.83 |  3.8s | Remember to follow me. |
+| 153 | 03:11.83-03:12.00 |  0.2s | Remember to follow me. |
+
+═══════════════════════════════════════════════
+【角色资产索引】
+| 资产 | 文件 |
+| 角色001 Cathy Rowe | 02_角色/角色001_CathyRowe_女主.png |
+| 角色002 Vincent Wallace | 02_角色/角色002_VincentWallace_CEO.png |
+| 角色003 Henrik Rowe | 02_角色/角色003_HenrikRowe_父亲.png |
+| 角色004 Benny Smith | 02_角色/角色004_BennySmith_工友.png |
+| 角色005 花衬衫墨镜壮汉 | 02_角色/角色005_黑帮壮汉_花衬衫.png |
+| 角色006 格纹西装男 | 02_角色/角色006_格纹西装男.png |
+
+【场景资产索引】
+| 资产 | 文件 |
+| 场景001 雪夜街道 | 03_场景/场景001_雪夜街道.png |
+| 场景002 建筑工地 | 03_场景/场景002_建筑工地.png |
+| 场景003 豪车内部 | 03_场景/场景003_豪车内部.png |
+| 场景004 新年烟花夜空 | 03_场景/场景004_新年烟花夜空.png |
+
+【道具资产索引】
+| 资产 | 文件 |
+| 道具001 黑色豪车 | 04_道具/道具001_黑色豪车.png |
+| 道具002 铁锅炒饭 | 04_道具/道具002_铁锅炒饭.png |
+| 道具003 讨债纸牌 | 04_道具/道具003_讨债纸牌.png |
+| 道具004 自行车 | 04_道具/道具004_自行车.png |
+
+【人物三视图】
+| 资产 | 文件 |
+| 角色001 三视图 | 05_三视图/角色001_CathyRowe_三视图.png |
+| 角色002 三视图 | 05_三视图/角色002_VincentWallace_三视图.png |
+| 角色003 三视图 | 05_三视图/角色003_HenrikRowe_三视图.png |
+| 角色004 三视图 | 05_三视图/角色004_BennySmith_三视图.png |
+| 角色005 三视图 | 05_三视图/角色005_花衬衫壮汉_三视图.png |
+| 角色006 三视图 | 05_三视图/角色006_格纹西装男_三视图.png |
+
