@@ -1,3 +1,4 @@
+import {publicUrl} from '@/lib/public-url';
 import type {PersonalProfile} from '@/lib/types';
 // Transcribed and visually verified against the original portfolio PDF, page 2.
 export const profile:PersonalProfile={
@@ -10,5 +11,5 @@ export const profile:PersonalProfile={
  education:[{school:'湖南理工大学',major:'',period:''}],resume:null,email:'17752825165@162.com',wechat:null,
  socials:[{name:'好啊懒懒懒',url:'https://space.bilibili.com/3493140088490129'}],
 };
-export const contact={phone:'17752825165',wechatQR:'/contact/wechat.png',bilibili:{name:'好啊懒懒懒',url:'https://space.bilibili.com/3493140088490129',dynamic:'https://space.bilibili.com/3493140088490129/dynamic',uploads:'https://space.bilibili.com/3493140088490129/upload',qr:'/contact/bilibili-dynamic-qr.png'}};
+export const contact={phone:'17752825165',wechatQR:publicUrl('/contact/wechat.png'),bilibili:{name:'好啊懒懒懒',url:'https://space.bilibili.com/3493140088490129',dynamic:'https://space.bilibili.com/3493140088490129/dynamic',uploads:'https://space.bilibili.com/3493140088490129/upload',qr:publicUrl('/contact/bilibili-dynamic-qr.png')}};
 

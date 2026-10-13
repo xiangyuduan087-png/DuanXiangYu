@@ -1,9 +1,10 @@
+import {publicResources} from '@/lib/public-url';
 import imported from './imported-projects.json';
 import presentation from './design-display.json';
 import verifiedBilibili from './bilibili-matches.json';
 import type {Project} from '@/lib/types';
 const names=presentation.names as Record<string,string>;
-export const projects:Project[]=(imported as unknown as Project[]).filter(p=>!presentation.excluded.includes(p.id)).map(p=>{
+export const projects:Project[]=publicResources(imported as unknown as Project[]).filter(p=>!presentation.excluded.includes(p.id)).map(p=>{
  if(p.direction!=='design'){
   const matches=verifiedBilibili as Record<string,{title:string;episodes:Record<string,{title:string;bvid:string;evidence:string}>}>;
   const match=matches[p.id];if(!match)return p;

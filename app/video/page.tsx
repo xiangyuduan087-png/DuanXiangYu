@@ -1,2 +1,2 @@
-import {redirect} from 'next/navigation';
-export default function Page(){redirect('/#video');}
+import LegacyRedirect from '@/components/legacy-redirect';
+export default function Page(){return <LegacyRedirect target="/#video"/>;}

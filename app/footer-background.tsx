@@ -1,4 +1,5 @@
 'use client';
+import {publicUrl} from '@/lib/public-url';
 
 import { useEffect, useRef } from 'react';
 import gazeFrames from './gaze-frames.json';
@@ -65,7 +66,7 @@ export default function FooterBackground({ enabled = true }: { enabled?: boolean
     const ready = () => {
       if (disposed) return;
       if (!visible || document.hidden || reduced.matches || lowPerformance || (!mobile.matches && !finePointer.matches)) { video.pause(); return; }
-      const source = mobile.matches ? '/footer-background.mp4' : '/footer-scrub.mp4';
+      const source = mobile.matches ? publicUrl('/footer-background.mp4') : publicUrl('/footer-scrub.mp4');
       if (video.getAttribute('src') !== source) { video.pause(); video.src = source; video.load(); return; }
       if(!enabledRef.current){video.pause();return;}
       video.loop = mobile.matches;
@@ -100,7 +101,7 @@ export default function FooterBackground({ enabled = true }: { enabled?: boolean
       window.removeEventListener('pointermove', move); window.removeEventListener('resize', updateTarget); window.removeEventListener('scroll', updateTarget);
     };
   }, []);
-  return <div className="footer-background" aria-hidden="true"><video ref={videoRef} muted playsInline preload="none" poster="/images/brand-character.webp" tabIndex={-1}/></div>;
+  return <div className="footer-background" aria-hidden="true"><video ref={videoRef} muted playsInline preload="none" poster={publicUrl('/images/brand-character.webp')} tabIndex={-1}/></div>;
 }
 
 
