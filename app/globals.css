@@ -744,3 +744,8 @@ input:not([type=range]):not([type=checkbox]):not([type=radio]),textarea,[content
  .viewer-footer{padding:8px 10px;gap:8px}.viewer-footer p{font-size:12px}
 }
 @media(prefers-reduced-motion:reduce){.local-refresh .single-header,.local-refresh .single-header h1,.site-positioning{transition:none}.opening-active .site-directory,.site-directory nav,.image-viewer,.image-viewer::backdrop{animation:none!important}}
+
+/* Only design grid previews crop; detail and viewer retain full artwork. */
+.local-refresh .portfolio-grid[data-direction=design] .portfolio-cover img{object-fit:cover;padding:0;display:block}
+
+.removed-work-notice{position:fixed;top:80px;left:50%;transform:translateX(-50%);z-index:500;background:#fff;border:1px solid #d9cce7;border-radius:24px;padding:12px 22px;box-shadow:0 6px 22px #40245b18}

@@ -1,5 +1,5 @@
 export const designCategories = ['海报', 'Banner', 'IP', '字体', '图标'] as const;
-export const videoCategories = ['TVC种草', '剧集', '娱乐向', '影游', '短片'] as const;
+export const videoCategories = ['TVC种草', '剧集', '娱乐向', '短片'] as const;
 export type DesignCategory = typeof designCategories[number];
 export type VideoCategory = typeof videoCategories[number];
 export type Direction = 'design' | 'video';

@@ -1,3 +1,4 @@
+import hidden from './hidden-projects.json';
 import playbackMetadata from './video-playback-metadata.json';
 import {publicResources} from '@/lib/public-url';
 import imported from './imported-projects.json';
@@ -5,7 +6,7 @@ import presentation from './design-display.json';
 import verifiedBilibili from './bilibili-matches.json';
 import type {Project} from '@/lib/types';
 const names=presentation.names as Record<string,string>;
-export const projects:Project[]=publicResources(imported as unknown as Project[]).filter(p=>!presentation.excluded.includes(p.id)).map(project=>{
+export const projects:Project[]=publicResources(imported as unknown as Project[]).filter(p=>!presentation.excluded.includes(p.id)&&!hidden.projectIds.includes(p.id)).map(project=>{
  let p=project;
  if(p.direction==='video'&&p.episodes?.length){
   const verified=playbackMetadata as Record<string,{width:number;height:number;duration:string}>;

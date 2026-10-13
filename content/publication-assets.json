@@ -16,10 +16,6 @@
     "bytes": 1339
   },
   {
-    "url": "/categories/interactive.svg",
-    "bytes": 1229
-  },
-  {
     "url": "/categories/ip.svg",
     "bytes": 1272
   },
@@ -90,10 +86,6 @@
   {
     "url": "/optimized/08edd31eab2f6a832fb1a4393402d4f81b353ad5e92331fc0c0195f0044b4daa.webp",
     "bytes": 4103930
-  },
-  {
-    "url": "/optimized/09c7d0de0c27a7ee5e558f8bf84b75bdc4751d696756e5957e212d373b4c2b11.webp",
-    "bytes": 1998466
   },
   {
     "url": "/optimized/09f93a88b7cb8aa994d3f6c60e081d6d6e3418f0dbf87abb839541c084f162e4.webp",
@@ -176,10 +168,6 @@
     "bytes": 1864570
   },
   {
-    "url": "/optimized/2bec6ca6c32ea621d699f380b627bd607cb3d5753179ba69ddbf3de43316bf6f.webp",
-    "bytes": 1385796
-  },
-  {
     "url": "/optimized/2e5feb512ab9a64c3e84485bedd6ca30fa807d7f806e718cb09edbbd84cec21e.webp",
     "bytes": 1563918
   },
@@ -192,10 +180,6 @@
     "bytes": 1754128
   },
   {
-    "url": "/optimized/31719bcdd7b5c6e1a25a88bbc9af20f67955bdb2f3940c1a5e81a6b580b1ddd1.webp",
-    "bytes": 1082434
-  },
-  {
     "url": "/optimized/35e7a8a84a8a2c8a8a60bac72b652a404c0704938e229464a8d2426447ff4371.webp",
     "bytes": 2898514
   },
@@ -206,10 +190,6 @@
   {
     "url": "/optimized/38994ebedf48e4621629655f5d77950decf87e40bb27472f9b4d24d51158d852.webp",
     "bytes": 1796912
-  },
-  {
-    "url": "/optimized/396d7b5f57e5175f2d153e7412fd13b6e1a5fadf902378c55f5449ddc27459cc.webp",
-    "bytes": 1337914
   },
   {
     "url": "/optimized/3a497e4923d7be151b6b4a661671de140b2d16ea788946f49a8c151dbd487438.webp",
@@ -338,10 +318,6 @@
   {
     "url": "/optimized/7f8c325de0e04b04f175e323a6d72268cca5e8d74756cae5ae29bba1599c078d.webp",
     "bytes": 948942
-  },
-  {
-    "url": "/optimized/812aca259c4a8d95c7324926c67422bc4a4c25c3d71c18332d43ae5c1bd3bb88.webp",
-    "bytes": 1347564
   },
   {
     "url": "/optimized/835c76a438139361eb9f49bfeb2f237f75df9d319e5cb6ee79fb1e8ae6420782.webp",
@@ -2086,98 +2062,6 @@
   {
     "url": "/projects/video-b96f2e47b3ca/videos/a2f27832e679.mp4",
     "bytes": 4239377
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/documents/227488f66c58.txt",
-    "bytes": 4372
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/documents/75b9d2715e61.txt",
-    "bytes": 5537
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/images/00c5f07e1691-poster.webp",
-    "bytes": 70932
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/originals/16f6d5165931.png",
-    "bytes": 1577138
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/originals/24f0aaf5d60f.png",
-    "bytes": 1617065
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/originals/63dd9e6b020f.png",
-    "bytes": 1496442
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/originals/75b1895338b1.png",
-    "bytes": 1735206
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/originals/7afb225df46f.png",
-    "bytes": 1259885
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/originals/7dd879a351f6.png",
-    "bytes": 1415292
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/originals/f058ca2b6797.png",
-    "bytes": 1687536
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/16f6d5165931.webp",
-    "bytes": 28394
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/1fa5488a1d08.webp",
-    "bytes": 49544
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/24f0aaf5d60f.webp",
-    "bytes": 22478
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/38e8dac891bb.webp",
-    "bytes": 47706
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/63dd9e6b020f.webp",
-    "bytes": 31442
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/73423c9d3cb6.webp",
-    "bytes": 22776
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/75b1895338b1.webp",
-    "bytes": 52942
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/7afb225df46f.webp",
-    "bytes": 15820
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/7dd879a351f6.webp",
-    "bytes": 23118
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/b486fbde023e.webp",
-    "bytes": 53014
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/b881bd6c94a4.webp",
-    "bytes": 66738
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/thumbnails/f058ca2b6797.webp",
-    "bytes": 39746
-  },
-  {
-    "url": "/projects/video-bf9b5e433696/videos/00c5f07e1691.mp4",
-    "bytes": 1600457
   },
   {
     "url": "/projects/video-c06e51c913a1/documents/0b7563c983cf.txt",

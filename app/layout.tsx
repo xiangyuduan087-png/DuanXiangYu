@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   icons: { icon: publicUrl('/logo.svg') },
 };
 export default function RootLayout({ children }: Readonly<{ children: React.ReactNode }>) {
-  return <html lang="zh-CN"><body id="top"><a href="#main-content" className="skip-link">跳转到主要内容</a>{children}<CustomCursor/></body></html>;
+  return <html lang="zh-CN"><head><script dangerouslySetInnerHTML={{__html: `(()=>{const state=window.__portfolioPointer={x:0,y:0,inside:false,seen:false};const track=e=>{if(e.pointerType&&e.pointerType!=="mouse")return;state.x=e.clientX;state.y=e.clientY;state.inside=true;state.seen=true;};document.addEventListener("pointermove",track,{passive:true});document.addEventListener("pointerover",track,{passive:true});document.addEventListener("mousemove",track,{passive:true});document.addEventListener("pointerout",e=>{if(e.relatedTarget===null)state.inside=false;},{passive:true});window.addEventListener("blur",()=>{state.inside=false;});})();`}}/></head><body id="top"><a href="#main-content" className="skip-link">跳转到主要内容</a>{children}<CustomCursor/></body></html>;
 }
 
 
