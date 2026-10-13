@@ -1,0 +1,120 @@
+《The Dragon Slayer's Daughter》（屠龙血脉之女）分镜脚本（真人海外1 · 第1集）
+═══════════════════════════════════════════════
+竖屏 9:16（1080×1920）｜ 4 场景 / 7 角色 / 4 道具 / 60 镜 ｜ 总时长 02:07.40
+说明：西方奇幻中世纪真人剧（龙族题材），全新建档资产。
+
+【段落划分】
+■ 第一幕　弃女归来·典礼生变（镜 001-011，约 00:00.00-00:20.00）｜场景001 城堡大殿
+　动作：Ford 家族大典上，一位不速之客闯入。Zoe 与众人不识来者，Lord Ford 冷问“谁扰了我女儿的典礼”。来者冷笑：“你夺走我女儿，只为逼我回来。”——她竟是五年前被逐出家门的长女 Jody。
+　参考资产：场景001_城堡大殿 ｜ 角色002_LordFord ｜ 角色001_Jody ｜ 角色004_Zoe
+
+■ 第二幕　父女对质·旧怨翻涌（镜 012-033，约 00:20.00-01:00.00）｜场景001 城堡大殿 / 场景002 龙纹壁炉书房
+　动作：Lord Ford 终于认出 Jody，却毫无愧色：“若你有你妹妹一半懂事，你母亲和我也不会这样对你。”Jody 只求见自己的女儿，被一句“你现在见不到她”驳回。父亲抛出条件：三日后嫁入灰烬之地，嫁给领主 Nick。
+　参考资产：场景001_城堡大殿 ｜ 场景002_龙纹壁炉书房 ｜ 角色001_Jody ｜ 角色002_LordFord ｜ 角色004_Zoe ｜ 道具001_星形胸针
+
+■ 第三幕　联姻之争·兄妹之别（镜 034-044，约 01:00.00-01:30.00）｜场景002 龙纹壁炉书房
+　动作：Jody 质问：嫁给一个屠了三村、烧死未婚妻的恶龙？“那不过是流言。”父亲只图灰烬之地的势力，兄妹联盟各取所需。Jody 反唇：“他这么好，为何不把 Zoe 嫁给他？”——“你母亲绝不允许。”“那我就可以？”
+　参考资产：场景002_龙纹壁炉书房 ｜ 角色001_Jody ｜ 角色002_LordFord ｜ 角色003_MrsFord ｜ 道具002_龙纹挂旗
+
+■ 第四幕　血脉原罪·逐女之由（镜 045-049，约 01:30.00-01:42.00）｜场景002 龙纹壁炉书房（回叙）
+　动作：Jody 道出真相：五岁那年她觉醒“屠龙血脉”，从此被家族厌弃；全家围着妹妹 Zoe 转。“可父亲，我也是你的女儿啊。”Lord Ford 冷酷宣判：“我们是龙，而你是屠龙者。Jody，你本就不该存在，你只会毁了我们所有人。”
+　参考资产：场景002_龙纹壁炉书房 ｜ 角色001_Jody ｜ 角色002_LordFord ｜ 道具002_龙纹挂旗
+
+■ 第五幕　灰烬之夜·孪生之谜（引线）（镜 050-060，约 01:42.00-02:07.40）｜场景003 病榻卧房 / 场景004 夜庭拱廊
+　动作：镜头转至灰烬之地：Nick 守着骤然病倒的小女儿 Kathy（旁白点明“Kathy Law — Jodi 与 Nick 的孪生小女儿”），轻抚其额：“若不舒服一定要告诉父亲。”Kathy 忽然睁眼：“有人在叫我。”“谁在叫你？”“你妹妹。”“Nick，她根本没有妹妹，你是知道的。”“她一定是在做梦。”——为“孪生姐妹”悬念埋钩。
+　参考资产：场景003_病榻卧房 ｜ 场景004_夜庭拱廊 ｜ 角色005_Nick ｜ 角色007_Kathy ｜ 道具004_药碗 ｜ 道具003_金酒杯
+
+═══════════════════════════════════════════════
+【镜头总览表（60 镜 · 时间码对齐转写台词）】
+| 镜号 | 时间码 | 时长 | 台词/内容 |
+| 001 | 00:01.00-00:01.53 |  0.5s |  |
+| 002 | 00:01.53-00:01.87 |  0.3s |  |
+| 003 | 00:01.87-00:03.37 |  1.5s |  |
+| 004 | 00:03.37-00:05.07 |  1.7s | Zoe, who are you? |
+| 005 | 00:05.07-00:05.73 |  0.7s | Zoe, who are you? |
+| 006 | 00:05.73-00:08.30 |  2.6s | Zoe, who are you? |
+| 007 | 00:08.30-00:09.33 |  1.0s | Zoe, who are you? |
+| 008 | 00:09.33-00:14.07 |  4.7s | Zoe, who are you? Who am I? You don't recognize me anymore |
+| 009 | 00:14.07-00:16.50 |  2.4s | Why should I know you? Who let you in? |
+| 010 | 00:16.50-00:18.77 |  2.3s | Who let you in? Who is disrupting my daughter's ceremony h |
+| 011 | 00:18.77-00:20.40 |  1.6s | Who is disrupting my daughter's ceremony here? You stole m |
+| 012 | 00:20.40-00:21.80 |  1.4s | You stole my daughter to force me back. |
+| 013 | 00:21.80-00:27.00 |  5.2s | You stole my daughter to force me back. Now, I'm standing  |
+| 014 | 00:27.00-00:27.73 |  0.7s | Father. |
+| 015 | 00:27.73-00:28.90 |  1.2s | Father. J-Jody? |
+| 016 | 00:28.90-00:30.10 |  1.2s | J-Jody? How can that be? |
+| 017 | 00:30.10-00:30.97 |  0.9s | How can that be? |
+| 018 | 00:30.97-00:31.30 |  0.3s |  |
+| 019 | 00:31.30-00:32.50 |  1.2s | You're Jody. |
+| 020 | 00:32.50-00:33.77 |  1.3s | You're Jody. Where's my daughter? |
+| 021 | 00:33.77-00:34.90 |  1.1s | Where's my daughter? |
+| 022 | 00:34.90-00:36.10 |  1.2s | Where's my daughter? |
+| 023 | 00:36.10-00:37.10 |  1.0s | Where's my daughter? |
+| 024 | 00:37.10-00:40.57 |  3.5s | Jody, I'm your father. Is that your way to speak to me? Wh |
+| 025 | 00:40.57-00:44.47 |  3.9s | When Paul drove me out five years ago, you all avoided me  |
+| 026 | 00:44.47-00:45.30 |  0.8s | We aren't family. Lord Ford. You! |
+| 027 | 00:45.30-00:49.70 |  4.4s | You! If you were half as sensible as your sister, your mot |
+| 028 | 00:49.70-00:51.07 |  1.4s | your mother and I wouldn't treat you this way. I just want |
+| 029 | 00:51.07-00:53.50 |  2.4s | I just want to know where my daughter is. You can't see he |
+| 030 | 00:53.50-00:54.30 |  0.8s | You can't see her for now. What are you gonna do now? |
+| 031 | 00:54.30-00:55.07 |  0.8s | What are you gonna do now? |
+| 032 | 00:55.07-00:58.17 |  3.1s | What are you gonna do now? In three days, you will marry L |
+| 033 | 00:58.17-01:01.30 |  3.1s | In three days, you will marry Lord Lord of the Cinderlands |
+| 034 | 01:01.30-01:07.07 |  5.8s | You can't know about your child. Nick? The vile dragon who |
+| 035 | 01:07.07-01:10.57 |  3.5s | Those are just rumors. You only need to marry Nick for one |
+| 036 | 01:10.57-01:12.87 |  2.3s | Besides, he is the leader of the most powerful dragon terr |
+| 037 | 01:12.87-01:15.30 |  2.4s | dragon territory. You won't regret it. |
+| 038 | 01:15.30-01:18.50 |  3.2s | If he's so wonderful, why don't you marry Zoe to him? What |
+| 039 | 01:18.50-01:20.70 |  2.2s | What are you talking about? Your mother will never allow i |
+| 040 | 01:20.70-01:22.90 |  2.2s | Your mother will never allow it. So it's okay for me to ma |
+| 041 | 01:22.90-01:24.87 |  2.0s | Jody, our family needs the support of the Lord of the Cind |
+| 042 | 01:24.87-01:27.37 |  2.5s | As it happens, he needs a marriage alliance too. Your moth |
+| 043 | 01:27.37-01:28.97 |  1.6s | Your mother and I have already decided. Just prepare for t |
+| 044 | 01:28.97-01:30.10 |  1.1s | Just prepare for the wedding in the next two days. When I  |
+| 045 | 01:30.10-01:32.17 |  2.1s | When I was five, I suddenly awakened my dragon slayer bloo |
+| 046 | 01:32.17-01:33.17 |  1.0s | From then on, you couldn't stand the sight of me. |
+| 047 | 01:33.17-01:38.53 |  5.4s | From then on, you couldn't stand the sight of me. Your who |
+| 048 | 01:38.53-01:40.57 |  2.0s | We are dragons and you are a dragon slayer. Jody, you shou |
+| 049 | 01:40.57-01:43.90 |  3.3s | Jody, you shouldn't exist. You'll only ruin us all. She wa |
+| 050 | 01:43.90-01:44.73 |  0.8s | She was perfectly fine a few days ago. |
+| 051 | 01:44.73-01:45.70 |  1.0s | She was perfectly fine a few days ago. |
+| 052 | 01:45.70-01:49.97 |  4.3s | She was perfectly fine a few days ago. How could she fall  |
+| 053 | 01:49.97-01:51.13 |  1.2s | How could she fall ill so suddenly? |
+| 054 | 01:51.13-01:53.70 |  2.6s | How could she fall ill so suddenly? If you feel uncomforta |
+| 055 | 01:53.70-01:57.70 |  4.0s | If you feel uncomfortable, you have to tell your father, o |
+| 056 | 01:57.70-01:58.73 |  1.0s | Someone is calling. Who's calling you? |
+| 057 | 01:58.73-02:02.57 |  3.8s | Who's calling you? |
+| 058 | 02:02.57-02:03.20 |  0.6s | Who's calling you? |
+| 059 | 02:03.20-02:04.33 |  1.1s | Who's calling you? Your sister. |
+| 060 | 02:04.33-02:07.40 |  3.1s | Your sister. Nick, she didn't have a sister. You know that |
+
+═══════════════════════════════════════════════
+【角色资产索引】
+| 角色001_Jody_女主 | 02_角色/角色001_Jody_女主.png |
+| 角色002_LordFord_龙王父亲 | 02_角色/角色002_LordFord_龙王父亲.png |
+| 角色003_MrsFord_母亲 | 02_角色/角色003_MrsFord_母亲.png |
+| 角色004_Zoe_妹妹 | 02_角色/角色004_Zoe_妹妹.png |
+| 角色005_Nick_灰烬之地领主 | 02_角色/角色005_Nick_灰烬之地领主.png |
+| 角色006_黑甲侍卫 | 02_角色/角色006_黑甲侍卫.png |
+| 角色007_Kathy_孪生小女儿 | 02_角色/角色007_Kathy_孪生小女儿.png |
+
+【场景资产索引】
+| 场景001_城堡大殿 | 03_场景/场景001_城堡大殿.png |
+| 场景002_龙纹壁炉书房 | 03_场景/场景002_龙纹壁炉书房.png |
+| 场景003_病榻卧房 | 03_场景/场景003_病榻卧房.png |
+| 场景004_夜庭拱廊 | 03_场景/场景004_夜庭拱廊.png |
+
+【道具资产索引】
+| 道具001_星形胸针 | 04_道具/道具001_星形胸针.png |
+| 道具002_龙纹挂旗 | 04_道具/道具002_龙纹挂旗.png |
+| 道具003_金酒杯 | 04_道具/道具003_金酒杯.png |
+| 道具004_药碗 | 04_道具/道具004_药碗.png |
+
+【人物三视图】
+| 角色001_Jody_三视图 | 05_三视图/角色001_Jody_三视图.png |
+| 角色002_LordFord_三视图 | 05_三视图/角色002_LordFord_三视图.png |
+| 角色003_MrsFord_三视图 | 05_三视图/角色003_MrsFord_三视图.png |
+| 角色004_Zoe_三视图 | 05_三视图/角色004_Zoe_三视图.png |
+| 角色005_Nick_三视图 | 05_三视图/角色005_Nick_三视图.png |
+| 角色006_黑甲侍卫_三视图 | 05_三视图/角色006_黑甲侍卫_三视图.png |
+| 角色007_Kathy_三视图 | 05_三视图/角色007_Kathy_三视图.png |
